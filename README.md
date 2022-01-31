@@ -14,3 +14,16 @@
 8. edit news1.md 
 9.  start hugo server
     >hugo server -D
+10. git related commands
+    1.  clone this repository
+        > git clone https://github.com/raymondyiu/hkmeta-news.git
+    2.  check status
+        > git status
+    3.  update 
+        > git add .
+    4.  commit
+        > git commit -m "update README.md"
+    5.  branch if need
+        > git branch -M newbranch
+    6.  push to update github
+        > git push origin main
