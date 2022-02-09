@@ -5,6 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: ''
+  label: dir
+  create: all
+  match: "**/*"
+- type: directory
   path: content/20220131
   label: '20220131'
   create: all
