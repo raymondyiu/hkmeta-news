@@ -27,3 +27,8 @@
         > git branch -M newbranch
     6.  push to update github
         > git push origin main
+
+| check box | Description |
+| ----------- | ----------- |
+| - [x]  | setup beta |
+| - [] | create a new branch |
