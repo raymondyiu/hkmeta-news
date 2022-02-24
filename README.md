@@ -28,6 +28,9 @@
     6.  push to update github
         > git push origin main
 
+[x] desc1
+[] desc2
+
 | check box | Description |
 | ----------- | ----------- |
 | - [x]  | setup beta |
