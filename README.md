@@ -29,7 +29,7 @@
         > git push origin main
 
 - [x] desc1
-- [] desc2
+- [ ] desc2
 
 | check box | Description |
 | ----------- | ----------- |
