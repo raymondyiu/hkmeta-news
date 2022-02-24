@@ -34,4 +34,4 @@
 | check box | Description |
 | ----------- | ----------- |
 | - [x]  | setup beta |
-| - [] | create a new branch |
+| - [ ] | create a new branch |
